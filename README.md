@@ -12,11 +12,11 @@ See demo for example usage
 ![demo](https://github.com/diogo0258/lvs/raw/master/demo.png)
 
 
-some more involved examples:
-<https://github.com/diogo0258/lvs-explorer>
-<https://github.com/diogo0258/lvs-active-explorer-search>
-<https://github.com/diogo0258/lvs-manage-open-windows>
+Some more involved examples:
+- <https://github.com/diogo0258/lvs-explorer>
+- <https://github.com/diogo0258/lvs-active-explorer-search>
+- <https://github.com/diogo0258/lvs-manage-open-windows>
 
 
-* Note: there are probably better ways to do this. See [SoLong&Thx4AllTheFish's CSV Quick Filter](https://autohotkey.com/board/topic/68279-csv-quick-filter-gui-show-results-in-listview-as-you-type/), or [Rajat's nDroid / 320mph](https://autohotkey.com/board/topic/2845-ndroid-formerly-320mph-ultra-fast-anything-launcher/)
+Note: there are probably better ways to do this. See [SoLong&Thx4AllTheFish's CSV Quick Filter](https://autohotkey.com/board/topic/68279-csv-quick-filter-gui-show-results-in-listview-as-you-type/), or [Rajat's nDroid / 320mph](https://autohotkey.com/board/topic/2845-ndroid-formerly-320mph-ultra-fast-anything-launcher/)
 
