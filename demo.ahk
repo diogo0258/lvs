@@ -31,7 +31,7 @@
 	; data from https://bulbapedia.bulbagarden.net/wiki/List_of_Japanese_Pokémon_names
 	
 	LVS_Init("callback", "Index|English|Japanese|Trademarked", 2, -1)  ; args: callbackfunc, col names, col to be returned, col to be searched (-1 for all).
-	LVS_SetList(testdata, ",")  ; args: data, field delimiter; does not update LV by default.
+	LVS_SetList(testdata, ",")  ; args: data, field delimiter.
 	LVS_UpdateColOptions("AutoHdr|100|Right Auto|Left AutoHdr")  ; call with no args to make them all AutoHdr.
 	LVS_SetBottomText("Press (Pg)Up/Down to select; try selecting multiple rows with Ctrl/Shift + movements or Space")
 	
