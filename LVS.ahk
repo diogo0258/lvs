@@ -189,7 +189,8 @@ LVS_Search() {
 			LVS_Add(CurrRowContents)  ; TODO: splits string again. Would be better with a variadic call
 	}
 
-	LV_Modify(1, "Select Focus")
+	if (LV_GetCount("Selected") = 0)
+		LV_Modify(1, "Select Focus")
 	
 	return True
 }
